@@ -1,4 +1,4 @@
-# Curso CC1002 Secciones 5 y 7
+# Curso CC1002 Secciones 5 y 7 (Primavera 2020)
 
 ## Objetivos del curso
 
