@@ -8,7 +8,7 @@ El objetivo principal de este curso no es formar programadores, sino desarrollar
 
 El contenido del curso se entrega en 2 formatos complementarios que los alumnos deben ver y desarrollar: videos y guías de trabajo.
 
-- **Guías de trabajo:** Cada estudiante debe desarrollar (individualmente) durante la semana las guías de trabajo correspondientes a las dos clases de la semana (puede hacerlas desarrollando los "notebooks" en [Colab](https://colab.research.google.com/) (sólo necesita el navegador Chrome, o puede hacerlas en su instalación local de [Python](https://www.python.org/downloads/)).
+- **Guías de trabajo:** Cada estudiante debe desarrollar (individualmente) durante la semana las guías de trabajo correspondientes a las dos clases de la semana (puede hacerlas desarrollando los "notebooks" en [Colab](https://colab.research.google.com/) que sólo requiere el navegador Chrome, o puede hacerlas en [Python](https://www.python.org/downloads/) instalandolo directamente en su PC).
 - **Videos:** Cada clase está grabada en una serie de videos cortos de publicación semanal.
 
 ## Reglas del curso
