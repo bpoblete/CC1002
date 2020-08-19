@@ -2,18 +2,16 @@
 
 ## Objetivos del curso
 
-El objetivo principal de este curso no es formar programadores, sino desarrollar en los alumnos una base común en razonamiento algorítmico y lógico, así como una capacidad de modelamiento y abstracción, necesarios para trabajar una habilidad general en la resolución de problemas. Estos problemas no necesariamente estarán acotados en el contexto de las Ciencias de la Computación, sino en el ámbito cotidiano y de la Ingeniería y Ciencias en general.
-
+El objetivo principal de este curso no es formar programadores, sino desarrollar una base común en razonamiento algorítmico y lógico, así como una capacidad de modelamiento y abstracción, necesarios la resolución de problemas.
 
 ## Metodología de trabajo
 
-Las clases de cátedra se realizan mezclando clase expositiva con metodología activa. Es decir, la profesora expone los contenidos del curso y realiza además aprendizaje basado en el desarrollo de problemas.
+El contenido del curso se entrega en 2 formatos complementarios que los alumnos deben ver y desarrollar: videos y guías de trabajo.
 
-El material del curso está diseñado para que los alumnos puedan bajarlo antes o durante las clases y que, si quieren, puedan ir siguiendo las actividades de manera interactiva en su computador (tablet, teléfono, etc.).
-
+- **Guías de trabajo:** Cada estudiante debe desarrollar (individualmente) durante la semana las guías de trabajo correspondientes a las dos clases de la semana (puede hacerlas desarrollando los "notebooks" en [Colab](https://colab.research.google.com/) (sólo necesita el navegador Chrome, o puede hacerlas en su instalación local de [Python](https://www.python.org/downloads/)).
+- **Videos:** Cada clase está grabada en una serie de videos cortos de publicación semanal.
 
 ## Reglas del curso
-
 
 - **NF (nota final):** 2/3 NT + 1/3 NEJ (NC>=4 y NEJ>=4)
 - **NT (nota tareas):** promedio 3 tareas (1 x unidad)
