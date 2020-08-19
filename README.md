@@ -11,12 +11,13 @@ El contenido del curso se entrega en 2 formatos complementarios que los alumnos 
 - **Guías de trabajo:** Cada estudiante debe desarrollar (individualmente) durante la semana las guías de trabajo correspondientes a las dos clases de la semana (puede hacerlas desarrollando los "notebooks" en [Colab](https://colab.research.google.com/) que sólo requiere el navegador Chrome, o puede hacerlas en [Python](https://www.python.org/downloads/) instalandolo directamente en su PC).
 - **Videos:** Cada clase está grabada en una serie de videos cortos de publicación semanal.
 
-## Contenidos Semanales
+## Contenidos Publicados por Semana
 
-Semana | Tema | Videos | Notebook | Pauta(PDF)| Comentarios 
+Semana | Tema | Videos | Notebook | Pauta(PDF) | Comentarios 
 :------------: | ------------- | :-------------: | :-------------: | -------------: | ------------- 
-1 | Introducción, tipos de datos y expresiones | [Clase 1](<Inserte Link>) | [Clase 1](https://github.com/bpoblete/CC1002/blob/master/Clases/Clase_01_Expresiones_y_Tipos_Datos.ipynb) | [Clase 1](https://github.com/bpoblete/CC1002/blob/master/Clases/PDFs_clases_completas/Clase_01_Expresiones_y_Tipos_Datos.pdf)
+1 | Introducción, tipos de datos y expresiones | [Clase 1](<Inserte Link>) | [Clase 1](https://github.com/bpoblete/CC1002/blob/master/Clases/Clase_01_Expresiones_y_Tipos_Datos.ipynb) | [Clase 1](https://github.com/bpoblete/CC1002/blob/master/Clases/PDFs_clases_completas/Clase_01_Expresiones_y_Tipos_Datos.pdf) |
 1 | Funciones y receta de diseño | | | |
+<!--
 2 | Módulos y Programas Interactivos | | | |
 2 | Condiciones | | | |
 3 | Recursión I | | | |
@@ -36,7 +37,7 @@ Semana | Tema | Videos | Notebook | Pauta(PDF)| Comentarios
 10 | Caso de Estudio III: Algoritmos de Ordenamiento | | | |
 10 | Objetos y Clases | | | |
 11 | Objetos y Clases II | | | |
-
+-->
 [Ver el Google Calendar actualizado de las clases](https://calendar.google.com/calendar/embed?src=o9k252abmbbpmi1ispf747a78c%40group.calendar.google.com&ctz=America%2FSantiago)
 
 ## Reglas del curso
