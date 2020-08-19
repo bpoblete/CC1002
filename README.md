@@ -53,8 +53,8 @@ Se dejará un post en el Blog del curso con detalles sobre el uso e instalación
 
 # Tabla de Contenidos Semanales
 
-Semana | Tema | Video | Notebook | Comentarios
-:------------: | ------------- | ------------- | :-------------: | :-------------: | -------------
+Semana | Tema | Video | Notebook | Comentarios 
+:------------: | ------------- | :-------------: | :-------------: | ------------- 
 1 | Introducción, tipos de datos y expresiones | [Clase 1](<Inserte Link>) | [Clase 1](https://github.com/bpoblete/CC1002/blob/master/Clase_01_Expresiones_y_Tipos_Datos.ipynb) |
 1 | Funciones y receta de diseño | | |
 2 | Módulos y Programas Interactivos | | |
