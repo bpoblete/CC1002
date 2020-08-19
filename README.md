@@ -1,5 +1,7 @@
 # Curso CC1002 Secciones 5 y 7 (Primavera 2020)
 
+[Ver el calendario actualizado de las clases](https://calendar.google.com/calendar/embed?src=o9k252abmbbpmi1ispf747a78c%40group.calendar.google.com&ctz=America%2FSantiago)
+
 ## Objetivos del curso
 
 El objetivo principal de este curso no es formar programadores, sino desarrollar una base común en razonamiento algorítmico y lógico, así como una capacidad de modelamiento y abstracción, necesarios la resolución de problemas.
