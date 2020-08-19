@@ -50,3 +50,29 @@ Reglas simples a seguir en tareas y ejercicios son que:
 - [Colab](https://colab.research.google.com/) de Google (permite ejecutar python online, no requiere instalación, pero sí tener el navegador [Chrome](https://www.google.com/chrome) en su tablet, smartphone o computador. Las clases del curso están hechas usando Colab, que es un ambiente que permite agregar bloques de código adentro de un documento.
 
 Se dejará un post en el Blog del curso con detalles sobre el uso e instalación de la consola y colab.
+
+# Tabla de Contenidos Semanales
+
+Semana | Tema | Video | Notebook | Comentarios 
+:------------: | ------------- | :-------------: | :-------------: | ------------- 
+1 | Introducción, tipos de datos y expresiones | [Clase 1](<Inserte Link>) | [Clase 1](https://github.com/bpoblete/CC1002/blob/master/Clase_01_Expresiones_y_Tipos_Datos.ipynb) |
+1 | Funciones y receta de diseño | | |
+2 | Módulos y Programas Interactivos | | |
+2 | Condiciones | | |
+3 | Recursión I | | |
+3 | Recursión II, Testing y Depuración | | |
+4 | Caso de Estudio I: Números Primos | | |
+4 | Estructuras/Datos Complejos | | |
+5 | Estructuras Recursivas I | | |
+5 | Estructuras Recursivas II | | |
+6 | Abstracción Funcional | | |
+6 | Árboles | | |
+7 | Árboles de Búsqueda Binaria ABB | | |
+7 | Caso de Estudio II: Agenda | | |
+8 | Mutación y Aliasing | | |
+8 | Estructuras Indexadas I | | |
+9 | Estructuras Indexadas II | | |
+9 | Archivos y Diccionarios | | |
+10 | Caso de Estudio III: Algoritmos de Ordenamiento | | |
+10 | Objetos y Clases | | |
+11 | Objetos y Clases II | | |
