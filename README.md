@@ -8,7 +8,7 @@ El objetivo principal de este curso no es formar programadores, sino desarrollar
 
 El contenido del curso se entrega en 2 formatos complementarios que los alumnos deben ver y desarrollar: videos y guías de trabajo (notebooks).
 
-1.  **Clases en formato Notebook (guías de trabajo):** Cada estudiante debe desarrollar (individualmente) durante la semana las guías de trabajo (Notebooks) correspondientes a las dos clases semanales (puede hacerlas directamente abriendo los "notebooks" en [Colab](https://colab.research.google.com/) que sólo requiere el navegador Chrome, o puede hacerlas desde [Python](https://www.python.org/downloads/) instalándolo directamente en su PC).
+1.  **Clases en formato Notebook (guías de trabajo):** Cada estudiante debe desarrollar (individualmente) durante la semana las guías de trabajo (Notebooks) correspondientes a las dos clases semanales (puede hacerlas directamente abriendo los "notebooks" en [Colab](https://colab.research.google.com/) que sólo requiere el navegador Chrome, o puede hacerlas desde [Python](https://www.python.org/downloads/) instalándolo directamente en su PC \[[ver tutorial!](https://www.youtube.com/watch?v=Y28NNOvg5QY)\]).
 2.  **Clases en formato Videos:** Cada clase está grabada en una serie de videos cortos de publicación semanal.
 
 ## Contenidos Publicados por Semana
