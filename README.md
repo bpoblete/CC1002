@@ -63,13 +63,13 @@ La escala en que se evaluarán los ejercicios está simplificada y es:
 
 ## Compromiso ético de trabajo personal durante el curso
 
-Se asume que todos los alumnos que participan del curso cumplirán con un compromiso ético en el desarrollo de su trabajo LINK. Este compromiso implica realizar las tareas de manera responsable 
-y honesta, sin incurrir en plagio, copia, o suplantación de identidad. Todas las evaluaciones, consistentes en ejercicios y tareas son trabajos de carácter individual (a no ser que se indique explícitamente lo contrario). El no cumplir con este compromiso de cualquier manera es causa de reprobación del curso.
+Se asume que todos los alumnos que participan del curso cumplirán con un compromiso ético en el desarrollo de su trabajo. Este compromiso implica realizar las tareas de manera responsable y honesta, sin incurrir en plagio, copia, o suplantación de identidad. Todas las evaluaciones, consistentes en ejercicios y tareas son trabajos de carácter individual (a no ser que se indique explícitamente lo contrario). El no cumplir con este compromiso de cualquier manera es causa de reprobación del curso.
 
 Reglas simples a seguir en tareas y ejercicios son que:
-- **todo el código debe ser de autoría propia** y no se puede compartir código entre estudiantes. En otras palabras, no está permitido _ver_ ni _copiar_ código de otros estudiantes.
-- Sí está permitido discutir estrategias para la solución de problemas entre estudiates como parte de la reflexión y el aprendizaje del curso. 
+- **todo el código debe ser de autoría propia** y no se puede compartir código entre estudiantes. En otras palabras, no está permitido _ver_ ni _copiar_ código de otros estudiantes, ni usar código hecho por terceros.
+- Sí está permitido (y es altamente recomendado) discutir estrategias para la solución de problemas entre estudiates como parte de la reflexión y el aprendizaje del curso. 
 
+**Detalles: ¿Qué tipo de colaboración entre estudiantes se permite y qué no?**: en el curso siguiremos la _Whiteboard Policy_ (o Política de Pizarrón Blanco) la cual está detallada [acá](https://github.com/bpoblete/CC1002/blob/master/Politica_de_Colaboracion_CC1002_Sec_5_y_7_2020_2-1.pdf). En resumen, dos personas pueden discutir una tarea en un pizarrón (virtual o real, o pantalla de computador) siempre que no tomen notas individuales, ni se grabe o fotografíe el pizarrón o pantalla. Luego, al terminar, se cierra todo, y _a partir de su memoria_ cada uno puede hacer su tarea o ejercicio. Lo más importante de la política es que _no debe haber transpaso de código (programas tanto completos como trozos) entre las dos personas_. Si cumplen esa regla, no tendrán ningún problema de copia. Así que anímense a colaborar!
 
 ## Herramientas del curso
 
