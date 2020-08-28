@@ -15,28 +15,28 @@ El contenido del curso se entrega en 2 formatos complementarios que los alumnos 
 
 Semana | Tema | Videos | Notebook | Pauta(PDF) | Comentarios 
 :------------: | :-------------: | :-------------: | :-------------: | :-------------: | :------------- 
-1 | Introducción, tipos de datos y expresiones | [Clase 1](https://www.youtube.com/watch?v=DLyXwkuoU9o&list=PLKUV14d0mKnW1a-2iGgQfZF_b4aE6gqdO) | [Clase 1](https://github.com/bpoblete/CC1002/blob/master/Clases/Clase_01_Expresiones_y_Tipos_Datos.ipynb) | [Clase 1](https://github.com/bpoblete/CC1002/blob/master/Clases/PDFs_clases_completas/Clase_01_Expresiones_y_Tipos_Datos.pdf) |
-1 | Funciones y receta de diseño | | | |
+1 | **Clase 1:** Introducción, tipos de datos y expresiones | <img src="https://f0.pngfuel.com/png/830/655/red-and-white-play-logo-png-clip-art.png" width="16px" height="16px">  <a href="https://www.youtube.com/watch?v=2hCYjJDqlrA&list=PLKUV14d0mKnW1a-2iGgQfZF_b4aE6gqdO&index=2&t=0s">Bienvenida al Curso</a> <br> [Parte 1: Expresiones y tipos de datos básicos](https://www.youtube.com/watch?v=DLyXwkuoU9o&list=PLKUV14d0mKnW1a-2iGgQfZF_b4aE6gqdO) <br> [Parte 2: Variables y errores](https://www.youtube.com/watch?v=navx3znvKck&list=PLKUV14d0mKnW1a-2iGgQfZF_b4aE6gqdO&index=4&t=0s)| [Clase 1](https://github.com/bpoblete/CC1002/blob/master/Clases/Clase_01_Expresiones_y_Tipos_Datos.ipynb) | [Clase 1](https://github.com/bpoblete/CC1002/blob/master/Clases/PDFs_clases_completas/Clase_01_Expresiones_y_Tipos_Datos.pdf) |
+1 | **Clase 2:** Funciones y receta de diseño | | | |
 <!--
-2 | Módulos y Programas Interactivos | | | |
-2 | Condiciones | | | |
-3 | Recursión I | | | |
-3 | Recursión II, Testing y Depuración | | | |
-4 | Caso de Estudio I: Números Primos | | | |
-4 | Estructuras/Datos Complejos | | | |
-5 | Estructuras Recursivas I | | | |
-5 | Estructuras Recursivas II | | | |
-6 | Abstracción Funcional | | | |
-6 | Árboles | | | |
-7 | Árboles de Búsqueda Binaria ABB | | | |
-7 | Caso de Estudio II: Agenda | | | |
-8 | Mutación y Aliasing | | | |
-8 | Estructuras Indexadas I | | | |
-9 | Estructuras Indexadas II | | | |
-9 | Archivos y Diccionarios | | | |
-10 | Caso de Estudio III: Algoritmos de Ordenamiento | | | |
-10 | Objetos y Clases | | | |
-11 | Objetos y Clases II | | | |
+2 | **Clase 3:** Módulos y Programas Interactivos | | | |
+2 | **Clase 4:** Condiciones | | | |
+3 | **Clase 5:** Recursión I | | | |
+3 | **Clase 6:** Recursión II, Testing y Depuración | | | |
+4 | **Clase 7:** Caso de Estudio I: Números Primos | | | |
+4 | **Clase 8:** Estructuras/Datos Complejos | | | |
+5 | **Clase 9:** Estructuras Recursivas I | | | |
+5 | **Clase 10:** Estructuras Recursivas II | | | |
+6 | **Clase 11:** Abstracción Funcional | | | |
+6 | **Clase 12:** Árboles | | | |
+7 | **Clase 13:** Árboles de Búsqueda Binaria ABB | | | |
+7 | **Clase 14:** Caso de Estudio II: Agenda | | | |
+8 | **Clase 15:** Mutación y Aliasing | | | |
+8 | **Clase 16:** Estructuras Indexadas I | | | |
+9 | **Clase 17:** Estructuras Indexadas II | | | |
+9 | **Clase 18:** Archivos y Diccionarios | | | |
+10 | **Clase 19:** Caso de Estudio III: Algoritmos de Ordenamiento | | | |
+10 | **Clase 20:** Objetos y Clases | | | |
+11 | **Clase 21:** Objetos y Clases II | | | |
 -->
 [Ver el Google Calendar actualizado de las clases](https://calendar.google.com/calendar/embed?src=o9k252abmbbpmi1ispf747a78c%40group.calendar.google.com&ctz=America%2FSantiago)
 
