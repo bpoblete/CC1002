@@ -9,13 +9,13 @@ El objetivo principal de este curso no es formar programadores, sino desarrollar
 El contenido del curso se entrega en 2 formatos complementarios que los alumnos deben ver y desarrollar: videos y guías de trabajo (notebooks).
 
 1.  **Clases en formato Notebook (guías de trabajo):** Cada estudiante debe desarrollar (individualmente) durante la semana las guías de trabajo (Notebooks) correspondientes a las dos clases semanales (puede hacerlas directamente abriendo los "notebooks" en [Colab](https://colab.research.google.com/) que sólo requiere el navegador Chrome, o puede hacerlas desde [Python](https://www.python.org/downloads/) instalándolo directamente en su PC \[[ver tutorial!](https://www.youtube.com/watch?v=Y28NNOvg5QY)\]).
-2.  **Clases en formato Videos:** Cada clase está grabada en una serie de videos cortos de publicación semanal.
+2.  **Clases en formato Videos:** Cada clase está grabada en una serie de videos cortos de publicación semanal, (puedes encontrar la [playlist completa acá](https://www.youtube.com/playlist?list=PLKUV14d0mKnW1a-2iGgQfZF_b4aE6gqdO)).
 
 ## Contenidos Publicados por Semana
 
 Semana | Tema | Videos | Notebook | Pauta(PDF) | Comentarios 
-:------------: | ------------- | :-------------: | :-------------: | -------------: | ------------- 
-1 | Introducción, tipos de datos y expresiones | [Clase 1](<Inserte Link>) | [Clase 1](https://github.com/bpoblete/CC1002/blob/master/Clases/Clase_01_Expresiones_y_Tipos_Datos.ipynb) | [Clase 1](https://github.com/bpoblete/CC1002/blob/master/Clases/PDFs_clases_completas/Clase_01_Expresiones_y_Tipos_Datos.pdf) |
+:------------: | :-------------: | :-------------: | :-------------: | :-------------: | :------------- 
+1 | Introducción, tipos de datos y expresiones | [Clase 1](https://www.youtube.com/watch?v=DLyXwkuoU9o&list=PLKUV14d0mKnW1a-2iGgQfZF_b4aE6gqdO) | [Clase 1](https://github.com/bpoblete/CC1002/blob/master/Clases/Clase_01_Expresiones_y_Tipos_Datos.ipynb) | [Clase 1](https://github.com/bpoblete/CC1002/blob/master/Clases/PDFs_clases_completas/Clase_01_Expresiones_y_Tipos_Datos.pdf) |
 1 | Funciones y receta de diseño | | | |
 <!--
 2 | Módulos y Programas Interactivos | | | |
