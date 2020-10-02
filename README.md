@@ -60,19 +60,19 @@ Semana | Tema | Videos | Notebook | Pauta(PDF)
 3 | **Clase 5:** Recursión I | <a href="#"><img src="https://f0.pngfuel.com/png/830/655/red-and-white-play-logo-png-clip-art.png" width="16px" height="16px"></a>  [Parte 1: Introducción](https://www.youtube.com/watch?v=hIFdLyosxzU&list=PLKUV14d0mKnW1a-2iGgQfZF_b4aE6gqdO&index=16&t=0s) <br> <a href="#"><img src="https://f0.pngfuel.com/png/830/655/red-and-white-play-logo-png-clip-art.png" width="16px" height="16px"></a>  [Parte 2: Características de las funciones recursivas](https://www.youtube.com/watch?v=B9_P4yHYn1s&list=PLKUV14d0mKnW1a-2iGgQfZF_b4aE6gqdO&index=17&t=0s) <br> <a href="#"><img src="https://f0.pngfuel.com/png/830/655/red-and-white-play-logo-png-clip-art.png" width="16px" height="16px"></a>  [Parte 3: Ejecución recursiva y restricción de parámetros](https://www.youtube.com/watch?v=fqKaTRw_TtY&list=PLKUV14d0mKnW1a-2iGgQfZF_b4aE6gqdO&index=18&t=0s) <br> <a href="#"><img src="https://f0.pngfuel.com/png/830/655/red-and-white-play-logo-png-clip-art.png" width="16px" height="16px"></a>  [Parte 4: Recursión: Ejemplos y receta de diseño](https://www.youtube.com/watch?v=6KdVYiXj4gM&list=PLKUV14d0mKnW1a-2iGgQfZF_b4aE6gqdO&index=19&t=0s) | <a href="#"><img src="https://sitiobigdata.com/wp-content/uploads/2019/02/google-colab.jpeg" width="32px" height="16px"></a> <br> [Clase 5](https://github.com/bpoblete/CC1002/blob/master/Clases/Clase_05_Recursion.ipynb) | <a href="#"><img src="https://www.hiddenjunglecusco.com/wp-content/uploads/2019/11/PDF-Logo.png" width="16px" height="16px"></a><br> [Clase 5](https://github.com/bpoblete/CC1002/blob/master/Clases/PDFs_clases_completas/Clase_05_Recursion.pdf)
 3 | **Clase 6:** Recursión II, Testing y Depuración | <a href="#"><img src="https://f0.pngfuel.com/png/830/655/red-and-white-play-logo-png-clip-art.png" width="16px" height="16px"></a>  [Parte 1: Testing y depuración](https://www.youtube.com/watch?v=XBtysganHio&list=PLKUV14d0mKnW1a-2iGgQfZF_b4aE6gqdO&index=20&t=0s) <br> <a href="#"><img src="https://f0.pngfuel.com/png/830/655/red-and-white-play-logo-png-clip-art.png" width="16px" height="16px"></a>  [Parte 2: Recuerdo: Características de las funciones recursivas](https://www.youtube.com/watch?v=fUW5MpBWhsk&list=PLKUV14d0mKnW1a-2iGgQfZF_b4aE6gqdO&index=21&t=0s) <br> <a href="#"><img src="https://f0.pngfuel.com/png/830/655/red-and-white-play-logo-png-clip-art.png" width="16px" height="16px"></a>  [Parte 3: Más ejemplos de recursión](https://www.youtube.com/watch?v=GWWWXy_Z3LU&list=PLKUV14d0mKnW1a-2iGgQfZF_b4aE6gqdO&index=22&t=0s) <br> <a href="#"><img src="https://f0.pngfuel.com/png/830/655/red-and-white-play-logo-png-clip-art.png" width="16px" height="16px"></a>  [Parte 4: Errores de redondeo en floats](https://www.youtube.com/watch?v=sQKr4dLstkk&list=PLKUV14d0mKnW1a-2iGgQfZF_b4aE6gqdO&index=23&t=0s) | <a href="#"><img src="https://sitiobigdata.com/wp-content/uploads/2019/02/google-colab.jpeg" width="32px" height="16px"></a> <br> [Clase 6](https://github.com/bpoblete/CC1002/blob/master/Clases/Clase_06_Testing_Depuracion_y_mas_Recursion.ipynb) | <a href="#"><img src="https://www.hiddenjunglecusco.com/wp-content/uploads/2019/11/PDF-Logo.png" width="16px" height="16px"></a><br> [Clase 6](https://github.com/bpoblete/CC1002/blob/master/Clases/PDFs_clases_completas/Clase_06-Testing_Depuracion_y_mas_Recursion.pdf) 
 4 | **Clase 7:** Caso de Estudio I: Números Primos | <a href="#"><img src="https://f0.pngfuel.com/png/830/655/red-and-white-play-logo-png-clip-art.png" width="16px" height="16px"></a>  [Caso de Estudio 1: Buscando Primos](https://www.youtube.com/watch?v=hSlo9rbCb6E&t=0s) |<a href="#"><img src="https://sitiobigdata.com/wp-content/uploads/2019/02/google-colab.jpeg" width="32px" height="16px"></a> <br> [Caso de Estudio 1](https://github.com/bpoblete/CC1002/blob/master/Clases/Clase_07_Caso_de_Estudio_Primos.ipynb) | <a href="#"><img src="https://www.hiddenjunglecusco.com/wp-content/uploads/2019/11/PDF-Logo.png" width="16px" height="16px"></a><br> [Caso de Estudio 1](https://github.com/bpoblete/CC1002/blob/master/Clases/PDFs_clases_completas/Clase_07_caso_de_estudios_Primos.pdf)  
-4 | **Clase 8:** Estructuras/Datos Complejos | | | 
+5 | **Clase 8:** Estructuras/Datos Complejos | | | 
 5 | **Clase 9:** Estructuras Recursivas I | | | 
-5 | **Clase 10:** Estructuras Recursivas II | | | 
+6 | **Clase 10:** Estructuras Recursivas II | | | 
 6 | **Clase 11:** Abstracción Funcional | | | 
-6 | **Clase 12:** Árboles | | | |
+7 | **Clase 12:** Árboles | | | |
 7 | **Clase 13:** Árboles de Búsqueda Binaria ABB | | | 
-7 | **Clase 14:** Caso de Estudio II: Agenda | | | 
+8 | **Clase 14:** Caso de Estudio II: Agenda | | | 
 8 | **Clase 15:** Mutación y Aliasing | | | 
-8 | **Clase 16:** Estructuras Indexadas I | | | 
+9 | **Clase 16:** Estructuras Indexadas I | | | 
 9 | **Clase 17:** Estructuras Indexadas II | | | 
-9 | **Clase 18:** Archivos y Diccionarios | | | 
+10 | **Clase 18:** Archivos y Diccionarios | | | 
 10 | **Clase 19:** Caso de Estudio III: Algoritmos de Ordenamiento | | | 
-10 | **Clase 20:** Objetos y Clases | | | 
+11 | **Clase 20:** Objetos y Clases | | | 
 11 | **Clase 21:** Objetos y Clases II | | | 
 
 ## Clases Auxiliares
