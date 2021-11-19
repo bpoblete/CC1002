@@ -1,0 +1,8 @@
+Nelson Muntz,1.0,3.5, 4.0
+Ralph Wiggum,4.5,2.0
+Martin Prince,7.0,7.0,7.0
+Sherry,6.5,6.0, 7.0
+Terry,6.8,7.0,5.0
+Lisa Simpson,7.0,7.0,7.0,7.0
+Bartholomew Simpson,3.0,1.0,2.0
+Milhouse Van Houten,5.0,5.8,4.0,6.0 
